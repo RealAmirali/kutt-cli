@@ -1,2 +1,2 @@
 # kutt-cli
-Go to:
+Go to: https://github.com/realamirali/kutt
